@@ -1,0 +1,12 @@
+mkdir Final
+ls
+touch CLASS_ROBOT
+ls
+rm CLASS_ROBOT
+ls
+touch CLASS_ROBOT
+mv  CLASS_ROBOT Final/
+ls
+cd CLASS_ROBOT/
+ls
+git remote add origin https://github.com/class-robot/final-exam.git
